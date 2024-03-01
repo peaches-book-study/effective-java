@@ -7,8 +7,8 @@ assignees: youngkimi
 
 ---
 
-### Chapter 2. 객체 생성과 파괴
-### Item 1. 생성자 대신 정적 팩터리 메서드를 고려하라.
+### Chapter : 2. 객체 생성과 파괴
+### Item : 1. 생성자 대신 정적 팩터리 메서드를 고려하라.
 ### Assignee : youngkimi
 
 --- ---
