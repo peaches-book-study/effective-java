@@ -2,6 +2,12 @@
 
 ### 이펙티브 자바 3/E
 
+### 제출 Rule
+
+- 이슈로 제출
+- 라벨 잘 달아주기
+- 리드미에 링크 같이 달아주기
+
 ### 참여자
 
 <link rel="stylesheet" type="text/css" href=".github/css/style.css">
@@ -67,15 +73,15 @@
 
 ### 3장 모든 객체의 공통 메서드
 
-- [Item 10. equals는 일반 규약을 지켜 재정의하라]()
+- [Item 10. equals는 일반 규약을 지켜 재정의하라](https://github.com/peaches-book-study/effective-java/issues/11)
 - [Item 11. equals를 재정의하려거든 hashCode도 재정의하라]()
-- [Item 12. toString을 항상 재정의하라]()
-- [Item 13. clone 재정의는 주의해서 진행하라]()
-- [Item 14. Comparable을 구현할지 고려하라]()
+- [Item 12. toString을 항상 재정의하라](https://github.com/peaches-book-study/effective-java/issues/12)
+- [Item 13. clone 재정의는 주의해서 진행하라](https://github.com/peaches-book-study/effective-java/issues/10)
+- [Item 14. Comparable을 구현할지 고려하라](https://github.com/peaches-book-study/effective-java/issues/13)
 
 ### 4장 클래스와 인터페이스
 
-- [Item 15. 클래스와 멤버의 접근 권한을 최소화하라]()
+- [Item 15. 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/peaches-book-study/effective-java/issues/14)
 - [Item 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라]()
 - [Item 17. 변경 가능성을 최소화하라]()
 - [Item 18. 상속보다는 컴포지션을 사용하라]()
