@@ -74,7 +74,7 @@
 ### 3장 모든 객체의 공통 메서드
 
 - [Item 10. equals는 일반 규약을 지켜 재정의하라](https://github.com/peaches-book-study/effective-java/issues/11)
-- [Item 11. equals를 재정의하려거든 hashCode도 재정의하라]()
+- [Item 11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/peaches-book-study/effective-java/issues/15)
 - [Item 12. toString을 항상 재정의하라](https://github.com/peaches-book-study/effective-java/issues/12)
 - [Item 13. clone 재정의는 주의해서 진행하라](https://github.com/peaches-book-study/effective-java/issues/10)
 - [Item 14. Comparable을 구현할지 고려하라](https://github.com/peaches-book-study/effective-java/issues/13)
