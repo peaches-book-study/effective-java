@@ -1,7 +1,7 @@
 ---
 name: Item 1. 생성자 대신 정적 팩터리 메서드를 고려하라
 about: Describe this issue template's purpose here.
-title: ''
+title: Item 1. 생성자 대신 정적 팩터리 메서드를 고려하라
 labels: ":whale: 02 Objects"
 assignees: youngkimi
 
