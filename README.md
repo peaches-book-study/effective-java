@@ -95,7 +95,7 @@
 
 ### 5장 제네릭
 
-- [Item 26. 로 타입은 사용하지 말라]()
+- [Item 26. 로 타입은 사용하지 말라](https://github.com/peaches-book-study/effective-java/issues/22)
 - [Item 27. 비검사 경고를 제거하라]()
 - [Item 28. 배열보다는 리스트를 사용하라]()
 - [Item 29. 이왕이면 제네릭 타입으로 만들라]()
