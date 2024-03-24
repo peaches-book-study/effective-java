@@ -89,7 +89,7 @@
 - [Item 20. 추상 클래스보다는 인터페이스를 우선하라](https://github.com/peaches-book-study/effective-java/issues/18)
 - [Item 21. 인터페이스는 구현하는 쪽을 생각해 설계하라](https://github.com/peaches-book-study/effective-java/issues/20)
 - [Item 22. 인터페이스는 타입을 정의하는 용도로만 사용하라]()
-- [Item 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라]()
+- [Item 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/peaches-book-study/effective-java/issues/24)
 - [Item 24. 멤버 클래스는 되도록 static으로 만들라]()
 - [Item 25. 톱레벨 클래스는 한 파일에 하나만 담으라]()
 
