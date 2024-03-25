@@ -56,6 +56,13 @@
               <b>조현수</b>
             </a> 
         </td>
+        <td style="min-width: 150px;">
+            <a href="https://github.com/jseok0917">
+              <img src="https://github.com/jseok0917.png" width="100">
+              <br />
+              <b>석지명</b>
+            </a> 
+        </td>
     </tr>
 </table>
 
