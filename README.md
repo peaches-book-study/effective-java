@@ -43,8 +43,8 @@
             </a> 
         </td>
         <td style="min-width: 150px;">
-            <a href="https://github.com/eunpyeong114">
-              <img src="https://github.com/eunpyeong114.png" width="100">
+            <a href="https://github.com/pyeong114">
+              <img src="https://github.com/pyeong114.png" width="100">
               <br />
               <b>전은평</b>
             </a> 
