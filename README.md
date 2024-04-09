@@ -124,7 +124,7 @@
 
 ### 7장 람다와 스트림
 
-- [Item 42. 익명 클래스보다는 람다를 사용하라]()
+- [Item 42. 익명 클래스보다는 람다를 사용하라](https://github.com/peaches-book-study/effective-java/issues/41)
 - [Item 43. 람다보다는 메서드 참조를 사용하라]()
 - [Item 44. 표준 함수형 인터페이스를 사용하라]()
 - [Item 45. 스트림은 주의해서 사용하라]()
