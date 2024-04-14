@@ -117,15 +117,15 @@
 - [Item 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](https://github.com/peaches-book-study/effective-java/issues/35)
 - [Item 36. 비트 필드 대신 EnumSet을 사용하라](https://github.com/peaches-book-study/effective-java/issues/39)
 - [Item 37. ordinal 인덱싱 대신 EnumMap을 사용하라](https://github.com/peaches-book-study/effective-java/issues/36)
-- [Item 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라]()
+- [Item 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://github.com/peaches-book-study/effective-java/issues/38)
 - [Item 39. 명명 패턴보다 애너테이션을 사용하라](https://github.com/peaches-book-study/effective-java/issues/40)
 - [Item 40. @Override 애너테이션을 일관되게 사용하라](https://github.com/peaches-book-study/effective-java/issues/37)
-- [Item 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라]()
+- [Item 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://github.com/peaches-book-study/effective-java/issues/42)
 
 ### 7장 람다와 스트림
 
 - [Item 42. 익명 클래스보다는 람다를 사용하라](https://github.com/peaches-book-study/effective-java/issues/41)
-- [Item 43. 람다보다는 메서드 참조를 사용하라]()
+- [Item 43. 람다보다는 메서드 참조를 사용하라](https://github.com/peaches-book-study/effective-java/issues/43)
 - [Item 44. 표준 함수형 인터페이스를 사용하라]()
 - [Item 45. 스트림은 주의해서 사용하라]()
 - [Item 46. 스트림에서는 부작용 없는 함수를 사용하라]()
