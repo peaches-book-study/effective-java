@@ -134,7 +134,7 @@
 
 ### 8장 메서드
 
-- [Item 49. 매개변수가 유효한지 검사하라]()
+- [Item 49. 매개변수가 유효한지 검사하라](https://github.com/peaches-book-study/effective-java/issues/48)
 - [Item 50. 적시에 방어적 복사본을 만들라]()
 - [Item 51. 메서드 시그니처를 신중히 설계하라]()
 - [Item 52. 다중정의는 신중히 사용하라]()
