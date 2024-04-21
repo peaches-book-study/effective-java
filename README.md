@@ -136,7 +136,7 @@
 
 - [Item 49. 매개변수가 유효한지 검사하라](https://github.com/peaches-book-study/effective-java/issues/48)
 - [Item 50. 적시에 방어적 복사본을 만들라]()
-- [Item 51. 메서드 시그니처를 신중히 설계하라]()
+- [Item 51. 메서드 시그니처를 신중히 설계하라](https://github.com/peaches-book-study/effective-java/issues/50)
 - [Item 52. 다중정의는 신중히 사용하라]()
 - [Item 53. 가변인수는 신중히 사용하라]()
 - [Item 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라]()
