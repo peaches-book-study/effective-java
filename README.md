@@ -127,17 +127,17 @@
 - [Item 42. 익명 클래스보다는 람다를 사용하라](https://github.com/peaches-book-study/effective-java/issues/41)
 - [Item 43. 람다보다는 메서드 참조를 사용하라](https://github.com/peaches-book-study/effective-java/issues/43)
 - [Item 44. 표준 함수형 인터페이스를 사용하라](https://github.com/peaches-book-study/effective-java/issues/47)
-- [Item 45. 스트림은 주의해서 사용하라]()
+- [Item 45. 스트림은 주의해서 사용하라](https://github.com/peaches-book-study/effective-java/issues/45)
 - [Item 46. 스트림에서는 부작용 없는 함수를 사용하라](https://github.com/peaches-book-study/effective-java/issues/46)
 - [Item 47. 반환 타입으로는 스트림보다 컬렉션이 낫다](https://github.com/peaches-book-study/effective-java/issues/44)
-- [Item 48. 스트림 병렬화는 주의해서 적용하라]()
+- [Item 48. 스트림 병렬화는 주의해서 적용하라](https://github.com/peaches-book-study/effective-java/issues/49)
 
 ### 8장 메서드
 
 - [Item 49. 매개변수가 유효한지 검사하라](https://github.com/peaches-book-study/effective-java/issues/48)
-- [Item 50. 적시에 방어적 복사본을 만들라]()
+- [Item 50. 적시에 방어적 복사본을 만들라](https://github.com/peaches-book-study/effective-java/issues/54)
 - [Item 51. 메서드 시그니처를 신중히 설계하라](https://github.com/peaches-book-study/effective-java/issues/50)
-- [Item 52. 다중정의는 신중히 사용하라]()
+- [Item 52. 다중정의는 신중히 사용하라](https://github.com/peaches-book-study/effective-java/issues/53)
 - [Item 53. 가변인수는 신중히 사용하라](https://github.com/peaches-book-study/effective-java/issues/51)
 - [Item 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://github.com/peaches-book-study/effective-java/issues/52)
 - [Item 55. 옵셔널 반환은 신중히 하라]()
