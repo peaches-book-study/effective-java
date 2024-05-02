@@ -141,7 +141,7 @@
 - [Item 53. 가변인수는 신중히 사용하라](https://github.com/peaches-book-study/effective-java/issues/51)
 - [Item 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://github.com/peaches-book-study/effective-java/issues/52)
 - [Item 55. 옵셔널 반환은 신중히 하라]()
-- [Item 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라]()
+- [Item 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](https://github.com/peaches-book-study/effective-java/issues/55)
 
 ### 9장 일반적인 프로그래밍 원칙
 
