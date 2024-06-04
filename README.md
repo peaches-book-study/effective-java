@@ -175,7 +175,7 @@
 - [Item 78. 공유 중인 가변 데이터는 동기화해 사용하라]()
 - [Item 79. 과도한 동기화는 피하라](https://github.com/peaches-book-study/effective-java/issues/69)
 - [Item 80. 스레드보다는 실행자, 태스크, 스트림을 애용하라]()
-- [Item 81. wait와 notify보다는 동시성 유틸리티를 애용하라]()
+- [Item 81. wait와 notify보다는 동시성 유틸리티를 애용하라](https://github.com/peaches-book-study/effective-java/issues/70)
 - [Item 82. 스레드 안전성 수준을 문서화하라]()
 - [Item 83. 지연 초기화는 신중히 사용하라]()
 - [Item 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라]()
