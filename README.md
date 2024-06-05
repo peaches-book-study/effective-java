@@ -155,7 +155,7 @@
 - [Item 64. 객체는 인터페이스를 사용해 참조하라]()
 - [Item 65. 리플렉션보다는 인터페이스를 사용하라]()
 - [Item 66. 네이티브 메서드는 신중히 사용하라](https://github.com/peaches-book-study/effective-java/issues/64)
-- [Item 67. 최적화는 신중히 하라]()
+- [Item 67. 최적화는 신중히 하라](https://github.com/peaches-book-study/effective-java/issues/65)
 - [Item 68. 일반적으로 통용되는 명명 규칙을 따르라]()
 
 ### 10장 예외
